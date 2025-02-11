@@ -1,0 +1,28 @@
+Modulverwaltung
+
+Überprüfe, ob ein bestimmtes Modul installiert ist.
+Falls nicht, lade das Modul in deine PowerShell-Sitzung.
+Überprüfe anschließend die Liste der verfügbaren Module.
+
+
+Arbeiten mit Cmdlets
+
+Rufe eine Liste aller Benutzer aus einer Datenquelle ab (z. B. Active Directory oder lokale Benutzerverwaltung).
+Zeige nur bestimmte Eigenschaften dieser Benutzer an, z. B. Name und Benutzerkonto.
+
+
+Pipeline-Nutzung
+
+Filtere die Daten so, dass nur Benutzer angezeigt werden, die einem bestimmten Muster entsprechen (z. B. alle Benutzer, deren Name mit einem bestimmten Buchstaben beginnt).
+Zähle, wie viele Benutzer in der Liste enthalten sind.
+
+
+Aktionen testen
+
+Simuliere eine Änderung an einem Benutzerkonto, ohne sie tatsächlich auszuführen (z. B. Passwortänderung oder Deaktivierung eines Accounts).
+
+
+Bonus-Aufgabe
+
+Exportiere die gefilterten Daten in eine Datei.
+Lade die gespeicherten Daten wieder in PowerShell und überprüfe den Inhalt.
